@@ -1,4 +1,4 @@
-from datetime import datetime  # Импортируем модуль datetime
+from datetime import datetime  
 import csv
 from check import check_id
  
